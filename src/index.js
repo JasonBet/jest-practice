@@ -1,4 +1,3 @@
-import "./styles.css";
-import { greeting } from "./greeting.js";
+import { sum } from "./testPractice.js";
 
-console.log(greeting);
+console.log(sum);
